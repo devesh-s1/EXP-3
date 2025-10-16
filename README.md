@@ -3,8 +3,8 @@
 # Aim:
 To develop a smart contract that tracks the supply chain of luxury goods, ensuring authenticity.
 
-### Name : Mohammed ibrahim MN 
-### Reg No : 212223100034
+### Name : DEVESH SHARMA
+### Reg No : 212222110008
 
 # Algorithm:
 1.Identify stakeholders involved in the luxury goods supply chain.
